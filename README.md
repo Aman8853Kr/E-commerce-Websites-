@@ -1,4 +1,5 @@
-# Anon - An eCommerce Website
+<<<<<<< HEAD
+# AMAN - An eCommerce Website
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
@@ -19,9 +20,9 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing Anon
+## Installing AMAN
 
-To install **Anon**, follow these steps:
+To install **AMAN**, follow these steps:
 
 Linux and macOS:
 
@@ -35,10 +36,4 @@ Windows:
 git clone https://github.com/codewithsadee/anon-ecommerce-website.git
 ```
 
-## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-This project is **free to use** and does not contains any license.
