@@ -24,16 +24,12 @@ Before you begin, ensure you have met the following requirements:
 
 To install **AMAN**, follow these steps:
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+git clone https://github.com/Aman8853Kr/E-commerce-Websites-.git
 ```
 
 
